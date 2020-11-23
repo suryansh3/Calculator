@@ -1,0 +1,23 @@
+*{padding:0;margin:0;user-select:none}
+.button{width:50px;height:50px;font-size:25px;margin:4px;border:none;background-color:#12342e;color:#fff;cursor:pointer;border-radius:45px;box-shadow:-2px 3px 7px #000;text-align:center}
+.buttona{width:50px;height:50px;font-size:25px;margin:4px;border:none;background-color:#18933a;color:#fff;cursor:pointer;border-radius:45px;box-shadow:-2px 3px 7px #000}
+.buttonb{width:50px;height:50px;font-size:25px;margin:4px;border:none;background-color:#991d03;color:#fff;cursor:pointer;border-radius:45px;box-shadow:-2px 3px 7px #000}
+.buttonc{width:50px;height:50px;font-size:25px;margin:4px;border:none;background-color:#5e8f0f;color:#fff;cursor:pointer;border-radius:45px;box-shadow:-2px 3px 7px #000}
+.buttond{width:50px;height:50px;font-size:25px;margin:4px;border:none;background-color:#19c587;color:#fff;cursor:pointer;border-radius:45px;box-shadow:-2px 3px 7px #000}
+.textview{width:205px;margin:5px;font-size:25px;border:none;font-weight:700;color:#1a0430;padding:10px;border-radius:15px;box-shadow:inset 1px 1px 10px 1px #000}
+.main{position:absolute;background:#1a0430;top:50%;left:50%;transform:translate(-50%,-50%);padding:10px;border-radius:15px}
+.bg{background:linear-gradient(#2595c2,#100417);width:100%;height:100%;position:absolute;z-index:-1}
+.button:hover{background-color:#593f8e;box-shadow:-2px 3px 7px #000}
+.buttonb:hover{background-color:#094e09;box-shadow:-2px 3px 7px #000}
+.buttonc:hover{background-color:#c32b2b;box-shadow:-2px 3px 7px #000}
+.buttond:hover{background-color:#2732af;box-shadow:-2px 3px 7px #000}
+.button:focus{outline:0}
+.bottom-nav{position:absolute;top:97%;left:50%;transform:translate(-50%,-97%)}
+.bottom-nav span{display:block;width:15px;height:15px;border-radius:50%;background-color:#fff}
+.bottom-nav ul{margin:0;padding:0;list-style-type:none}
+.bottom-nav li{display:inline-block;margin:5px}
+.bottom-nav .ta{background-color:#235}
+.bottom-nav .tb{background-color:#2e992e}
+.bottom-nav .tc{background-color:#b95050}
+.bottom-nav .td{background-color:#c21d7d}
+.bottom-nav span:hover{background-color:#a315158c}
